@@ -14,39 +14,39 @@ permalink: /:title/
 # Authors
 authors:
   admin:
-    name: Rais Fazriansyah
-    display_name: Rais Fazriansyah
-    gravatar: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9F4mwNwQpn8ySIwM04R_xdW78rEqCgAPQwptAIfCKwFqgHPzWI-93Qi9n9ydhmxyc0IRf9fR6URJXMa1uwn-HWoI53OdY2cqcL31qRCF_QEjo5La1aFVKxMyftApuIFJ3lWm38eqLQDhO-kLQFEttSL2YbUgB3hZONXMuxKFpxF-XCyrbklgTbR_lVII/s1600/20240928_224124.jpg
-    email: r.fazriansyah@gmail.com
-    web: /aboutme
-    twitter: https://twitter.com/wowthemesnet
-    description: "Writing opens windows to the depths of the soul revealing layers of truth and emotion that often go unnoticed in everyday life"
+     name: Rais Fazriansyah
+     display_name: Rais Fazriansyah
+     gravatar: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9F4mwNwQpn8ySIwM04R_xdW78rEqCgAPQwptAIfCKwFqgHPzWI-93Qi9n9ydhmxyc0IRf9fR6URJXMa1uwn-HWoI53OdY2cqcL31qRCF_QEjo5La1aFVKxMyftApuIFJ3lWm38eqLQDhO-kLQFEttSL2YbUgB3hZONXMuxKFpxF-XCyrbklgTbR_lVII/s1600/20240928_224124.jpg
+     email: r.fazriansyah@gmail.com
+     web: /aboutme
+     twitter: https://twitter.com/wowthemesnet
+     description: "Writing opens windows to the depths of the soul revealing layers of truth and emotion that often go unnoticed in everyday life"
   admin2:
-    name: Yessi Amanda Clara
-    display_name: Yessi Amanda Clara    
-    avatar: 'assets/images/avatar.png'
-    gravatar: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivwo_RIBiWT6QKhSzsg0j_dpBnsulFU0zgGjtuGwE-v3VudMrY4Rk1KmjumNW32jd1hG0j2akSU02QyoRLEfE62FCRlXrA8M8oit_oNXoekXwX1fWYg5xjAo4cbZAiyiFvPlcUNEG6TjjBaxEOwLIwISOitED9KWhpJchmw7y2kf_x8j5IkJt-edCnUTk/s1600/20241009_134205.jpg
-    email: kuliaridijebor33@gmail.com
-    web: /aboutme2
-    twitter: https://twitter.com/wowthemesnet
-    description: "To write is to embark on a journey of discovery where each sentence uncovers not only what we know but what we have yet to realize"
+     name: Yessi Amanda Clara
+     display_name: Yessi Amanda Clara    
+     avatar: 'assets/images/avatar.png'
+     gravatar: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivwo_RIBiWT6QKhSzsg0j_dpBnsulFU0zgGjtuGwE-v3VudMrY4Rk1KmjumNW32jd1hG0j2akSU02QyoRLEfE62FCRlXrA8M8oit_oNXoekXwX1fWYg5xjAo4cbZAiyiFvPlcUNEG6TjjBaxEOwLIwISOitED9KWhpJchmw7y2kf_x8j5IkJt-edCnUTk/s1600/20241009_134205.jpg
+     email: kuliaridijebor33@gmail.com
+     web: /aboutme2
+     twitter: https://twitter.com/wowthemesnet
+     description: "To write is to embark on a journey of discovery where each sentence uncovers not only what we know but what we have yet to realize"
   admin3:
-    name: Tania Shakila
-    display_name: Tania Shakila
-    gravatar: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggO4QQd25sXKq4_CQSNXU4J_JxvEWIkCI0VvlqL45zPOVv_fC744eeLsR-p3KuKf02NwmkubE7E5oi34AKNWNnN30xtDHUIIdFxv34DegR2CYXNyHv0RiQVMfG4P3vgsJHSr_2SCFbZDRaJ6WQ2tiyf24lMuKAt65cUFcVSZ7q-caMt1Bf8S_yC4BWAYw/s1600/20241009_134149.jpg
-    email: tengtengteng044@gmail.com
-    web: /aboutme3
-    twitter: https://twitter.com/wowthemesnet
-    description: "I write to unravel the stories hidden within my heart, weaving them into the tapestry of my life"
+     name: Tania Shakila
+     display_name: Tania Shakila
+     gravatar: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggO4QQd25sXKq4_CQSNXU4J_JxvEWIkCI0VvlqL45zPOVv_fC744eeLsR-p3KuKf02NwmkubE7E5oi34AKNWNnN30xtDHUIIdFxv34DegR2CYXNyHv0RiQVMfG4P3vgsJHSr_2SCFbZDRaJ6WQ2tiyf24lMuKAt65cUFcVSZ7q-caMt1Bf8S_yC4BWAYw/s1600/20241009_134149.jpg
+     email: tengtengteng044@gmail.com
+     web: /aboutme3
+     twitter: https://twitter.com/wowthemesnet
+     description: "I write to unravel the stories hidden within my heart, weaving them into the tapestry of my life"
   admin4:
-    name: Nesya Rivania
-    display_name: Nesya Rivania    
-    avatar: 'assets/images/avatar.png'
-    gravatar: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga0vwOnTPayuTZaRvubJhRC8AQZabXnSpH2GO3e-imGInmYZz2HEvS_70Or9mjuzv3Aan8HOutnNR-YObwmbBJYqxjcfEls_B_TL477hHSPTUTS-7-TsVIptcYuhh5WQ0f_APdLxkkxEBvEbHXXh_jOX7vqDNcvzQJguvNWfIyANud3MLPOgdK1CtgHLw/s1600/20241009_134129.jpg
-    email: eweuhsasaha92@gmail.com
-    web: /aboutme4
-    twitter: https://twitter.com/wowthemesnet
-    description: "With every story told a new world is crafted and through the act of writing we breathe life into dreams ideas and possibilities"
+     name: Nesya Rivania
+     display_name: Nesya Rivania    
+     avatar: 'assets/images/avatar.png'
+     gravatar: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga0vwOnTPayuTZaRvubJhRC8AQZabXnSpH2GO3e-imGInmYZz2HEvS_70Or9mjuzv3Aan8HOutnNR-YObwmbBJYqxjcfEls_B_TL477hHSPTUTS-7-TsVIptcYuhh5WQ0f_APdLxkkxEBvEbHXXh_jOX7vqDNcvzQJguvNWfIyANud3MLPOgdK1CtgHLw/s1600/20241009_134129.jpg
+     email: eweuhsasaha92@gmail.com
+     web: /aboutme4
+     twitter: https://twitter.com/wowthemesnet
+     description: "With every story told a new world is crafted and through the act of writing we breathe life into dreams ideas and possibilities"
   admin5:
     name: Kania Naava
     display_name: Kania Naava
